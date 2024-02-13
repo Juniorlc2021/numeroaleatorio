@@ -1,2 +1,3 @@
 # numero_secreto
-jogo gerar numero aleatório
+um jogo gerar numero aleatório
+um projeto que esta incluido em um dos cursos da Alura
